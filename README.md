@@ -1,0 +1,1 @@
+This Java-based Food Order System is a foundational project that streamlines the ordering process for both customers and restaurant staff. It features an intuitive interface for users to browse menus, manage their shopping carts, and place orders, while offering an administrative backend for managing menu items and viewing
